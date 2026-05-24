@@ -64,7 +64,7 @@ The analysis provided several important business insights, including:
 - Pivot Charts
 - Slicers
 - Data Visualization
-## onclusion
+## conclusion
 
 This project demonstrates how customer analytics and data visualization techniques can help businesses understand customer behavior, reduce churn, and improve customer retention.
 
