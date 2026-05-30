@@ -49,6 +49,7 @@ The dashboard includes interactive slicers for:
 3 Tenure Group
 4 Internet Service
 These slicers allow dynamic filtering and real-time dashboard interaction.
+<img width="1604" height="658" alt="rentention_and_churn_analysis_dashboard" src="https://github.com/user-attachments/assets/5dd89572-1eb5-43bd-8039-3a7eb15c277c" />
 ## Business Insights Generated
 The analysis provided several important business insights, including:
 - Customers with month-to-month contracts showed the highest churn rate.
